@@ -1,0 +1,2 @@
+- Implementação de login utilizan JWT numa Webapi
+- Skills: .Net 8, SqlServer, Migrations, Seed
