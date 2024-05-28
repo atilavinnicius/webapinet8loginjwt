@@ -1,0 +1,6 @@
+@loginwebapijwt_HostAddress = http://localhost:5015
+
+GET {{loginwebapijwt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

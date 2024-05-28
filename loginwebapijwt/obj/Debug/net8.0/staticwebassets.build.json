@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B2hRSuH0v1hZphhDZRlGXBTiIctiL88bcFJQ1lhKzak=",
+  "Source": "loginwebapijwt",
+  "BasePath": "_content/loginwebapijwt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
